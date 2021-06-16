@@ -18,7 +18,7 @@ python run_tests.py
 
 # Grafica Split
 
-![](project/split.png)
+![](project/Split.png)
 
 # Grafica Xor
 
