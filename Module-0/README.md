@@ -12,4 +12,14 @@
 python run_tests.py
 ```
 
+# Grafica simple
+
 ![](project/simple.png)
+
+# Grafica Split
+
+![](project/split.png)
+
+# Grafica Xor
+
+![](project/xor.png)
