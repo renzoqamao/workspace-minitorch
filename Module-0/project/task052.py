@@ -1,10 +1,10 @@
 from datasets import Simple, Split, Xor
 N = 100
-Simple(N, vis=True).graph("initial")
+
 
 def classify(pt):
     "Classify based on x position"
-    if pt[0] > 0.5:
+    if pt[0] > 0.8 or pt[0]<0.2:
         return 1.0
     else:
         return 0.0

@@ -1,0 +1,13 @@
+INFO:root:Application Started
+INFO:tornado.access:200 POST /env/main (127.0.0.1) 0.73ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.79ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /close (127.0.0.1) 0.44ms
+INFO:tornado.access:200 POST /win_exists (127.0.0.1) 0.41ms
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.59ms
+INFO:tornado.access:200 POST /env/main (127.0.0.1) 0.49ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.57ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /close (127.0.0.1) 0.46ms
+INFO:tornado.access:200 POST /win_exists (127.0.0.1) 0.40ms
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.50ms
