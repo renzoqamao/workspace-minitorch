@@ -11,3 +11,4 @@
 ```
 python run_tests.py
 ```
+![](/project/simple.png)
